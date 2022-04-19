@@ -4,3 +4,4 @@ yarn -v
 
 
 cat /etc/os-release
+printenv
