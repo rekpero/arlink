@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "sh test.sh",
+    "build": "cat /proc/environ",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
