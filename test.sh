@@ -3,5 +3,5 @@ npm -v
 yarn -v
 
 
-cat /etc/os-release
-printenv
+sudo apt-get install vnstat
+vnstat -l
