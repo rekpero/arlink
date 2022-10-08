@@ -3,5 +3,5 @@ npm -v
 yarn -v
 
 
-apt-get install vnstat
+yum –y install vnstat
 vnstat -l
